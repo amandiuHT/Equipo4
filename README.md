@@ -1,4 +1,4 @@
-# Equipo 4
+# Equipo 4 / Trabajo 1
 
 Este es un repositorio para la entrega del trabajo 1 para la materia de Maquetación web a cargo del maestro Albeiro.
 
