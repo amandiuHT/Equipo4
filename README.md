@@ -1,5 +1,7 @@
 # Equipo 4
+
 Este es un repositorio para la entrega del trabajo 1 para la materia de Maquetación web a cargo del maestro Albeiro.
+
 ---
 En este repositorio se encunetra:
 - Documento `index.html` en el cual se esteblece un formulario con 5 campos en el que cada uno cuenta con una validación.
