@@ -17,7 +17,17 @@ nameField.addEventListener("blur", function (e) {
         })
     }
 })
-
+// validacion Apellido
+apellidoField.addEventListener("blur", function (e) {
+    const fieldValue = e.target.value;
+    if (fieldValue.length < 3) {
+        Swal.fire({
+            icon: 'error',
+            title: 'Oops...',
+            text: 'El apellido debe tener al menos 4 letras!',
+        })
+    }
+})
 // Validacion Correo
 mailField.addEventListener("blur", function (e) {
     const fieldValue = e.target.value;
