@@ -4,6 +4,7 @@
 const nameField = document.getElementById("Nombre");
 const apellidoField = document.getElementById("Apellido");
 const mailField = document.getElementById("email");
+const botonEnviar = document.getElementById("submit");
 
 //2.- Asignar los eventos 
 // validacion Nombre
