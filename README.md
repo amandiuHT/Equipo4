@@ -9,8 +9,8 @@ En este repositorio se encunetra:
 - Documento `principal.html` en cual se implemento 5 componentes de Boostrap (navbar, carrusel, cards, botones y footer)
 ---
 Integrantes:
-- Amanda Huerta
-- Daniela M. Sánchez
-- Daniela Heredia
+- Amanda Huerta (https://github.com/amandiuHT)
+- Daniela M. Sánchez (https://github.com/DanielaSanchez130571)
+- Daniela Heredia (https://github.com/DanHT22)
 ---
 Kuepa, 2023
